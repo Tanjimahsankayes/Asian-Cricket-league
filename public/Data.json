@@ -1,0 +1,272 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "ratting": 9.5,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "playerImage": "https://i.ibb.co.com/jPZhDHvx/17116-list.jpg",
+    "playerPrice": "$1120"
+  },
+  {
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "ratting": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "playerImage": "https://i.ibb.co.com/G41pfJdP/download-2.jpg",
+    "playerPrice": "$920"
+  },
+  {
+    "playerName": "Mahmudullah",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "ratting": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Offbreak",
+    "playerImage": "https://i.ibb.co.com/MxM92bY7/images.webp",
+    "playerPrice": "$810"
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "ratting": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Left-arm fast-medium",
+    "playerImage": "https://i.ibb.co.com/qYSjcgd3/download.webp",
+    "playerPrice": "$1000"
+  },
+  {
+    "playerName": "Mosaddek Hossain",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-Rounder",
+    "ratting": 8.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "https://i.ibb.co.com/FkjgcfWQ/download.jpg",
+    "playerPrice": "$600"
+  },
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "ratting": 9.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "playerImage": "https://i.ibb.co.com/Q3Z0PC30/images-1.webp",
+    "playerPrice": "$1120"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "ratting": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "https://i.ibb.co.com/TBxccDcf/images-2.webp",
+    "playerPrice": "$1020"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "ratting": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "playerImage": "https://i.ibb.co.com/cSg7z60d/images-3.webp",
+    "playerPrice": "$1320"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-Rounder",
+    "ratting": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "playerImage": "https://i.ibb.co.com/wrhMnyfS/download-1.jpg",
+    "playerPrice": "$920"
+  },
+  {
+    "playerName": "KL Rahul",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "ratting": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "/assets/players/rahul.png"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "ratting": 9.6,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "/assets/players/babar.png"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "ratting": 9.3,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "playerImage": "/assets/players/shaheen.png"
+  },
+  {
+    "playerName": "Fakhar Zaman",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "ratting": 8.8,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "playerImage": "/assets/players/fakhar.png"
+  },
+  {
+    "playerName": "Mohammad Rizwan",
+    "playerCountry": "Pakistan",
+    "playerType": "Wicketkeeper-Batsman",
+    "ratting": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "/assets/players/rizwan.png"
+  },
+  {
+    "playerName": "Imad Wasim",
+    "playerCountry": "Pakistan",
+    "playerType": "All-Rounder",
+    "ratting": 8.6,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "playerImage": "/assets/players/imad.png"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "ratting": 9.4,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "/assets/players/root.png"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-Rounder",
+    "ratting": 9.7,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "playerImage": "/assets/players/stokes.png"
+  },
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper-Batsman",
+    "ratting": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "playerImage": "/assets/players/buttler.png"
+  },
+  {
+    "playerName": "Eoin Morgan",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "ratting": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "playerImage": "/assets/players/morgan.png"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "ratting": 9.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "/assets/players/williamson.png"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "ratting": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "playerImage": "/assets/players/boult.png"
+  },
+  {
+    "playerName": "Ross Taylor",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "ratting": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "playerImage": "/assets/players/taylor.png"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "ratting": 8.9,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "playerImage": "/assets/players/starc.png"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "ratting": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "playerImage": "/assets/players/smith.png"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "ratting": 9.1,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "playerImage": "/assets/players/warner.png"
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "All-Rounder",
+    "ratting": 8.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "/assets/players/maxwell.png"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "ratting": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "playerImage": "/assets/players/rashid.png"
+  },
+  {
+    "playerName": "Mohammad Nabi",
+    "playerCountry": "Afghanistan",
+    "playerType": "All-Rounder",
+    "ratting": 8.7,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "/assets/players/nabi.png"
+  },
+  {
+    "playerName": "Mujeeb Ur Rahman",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "ratting": 8.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "playerImage": "/assets/players/mujeeb.png"
+  }
+]
